@@ -4,7 +4,6 @@ import 'package:flutter/material.dart';
 import 'package:us/screens/home/home.dart';
 import 'package:us/screens/login/login.dart';
 
-
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp();
@@ -32,29 +31,31 @@ class InitializerWidget extends StatefulWidget {
 }
 
 class _InitializerWidgetState extends State<InitializerWidget> {
+  FirebaseAuth? _auth;
 
-  FirebaseAuth _auth;
-
-  User _user;
+  User? _user;
 
   bool isLoading = true;
-
 
   @override
   void initState() {
     // TODO: implement initState
     super.initState();
     _auth = FirebaseAuth.instance;
-    _user = _auth.currentUser;
+    _user = _auth?.currentUser;
     isLoading = false;
   }
 
   @override
   Widget build(BuildContext context) {
-    return isLoading ? Scaffold(
-      body: Center(
-        child: CircularProgressIndicator(),
-      ),
-    ) : _user == null ? LoginScreen() : HomePage();
+    return isLoading
+        ? Scaffold(
+            body: Center(
+              child: CircularProgressIndicator(),
+            ),
+          )
+        : _user == null
+            ? LoginScreen()
+            : IndexPage();
   }
 }

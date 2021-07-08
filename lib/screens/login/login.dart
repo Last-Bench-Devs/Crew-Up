@@ -3,7 +3,6 @@ import 'package:firebase_auth/firebase_auth.dart';
 import "package:flutter/material.dart";
 import 'package:us/screens/home/home.dart';
 
-
 enum MobileVerificationState {
   SHOW_MOBILE_FORM_STATE,
   SHOW_OTP_FORM_STATE,
@@ -23,12 +22,12 @@ class _LoginScreenState extends State<LoginScreen> {
 
   FirebaseAuth _auth = FirebaseAuth.instance;
 
-  String verificationId;
+  late String verificationId;
 
   bool showLoading = false;
 
   //user id
-  String userUid;
+  late String userUid;
 
   //user id.....
 
@@ -42,8 +41,8 @@ class _LoginScreenState extends State<LoginScreen> {
       final authCredential =
           await _auth.signInWithCredential(phoneAuthCredential);
 
-      final User user = _auth.currentUser;
-      final uid = user.uid;
+      final User? user = _auth.currentUser;
+      final uid = user!.uid;
 
       setState(() {
         showLoading = false;
@@ -52,16 +51,16 @@ class _LoginScreenState extends State<LoginScreen> {
 
       if (authCredential?.user != null) {
         userMobileStore();
-        Navigator.push(context,
-            MaterialPageRoute(builder: (context) => HomePage()));
+        Navigator.push(
+            context, MaterialPageRoute(builder: (context) => IndexPage()));
       }
     } on FirebaseAuthException catch (e) {
       setState(() {
         showLoading = false;
       });
 
-      _scaffoldKey.currentState
-          .showSnackBar(SnackBar(content: Text(e.message)));
+      _scaffoldKey.currentState!
+          .showSnackBar(SnackBar(content: Text(e.message.toString())));
     }
   }
 
@@ -77,7 +76,7 @@ class _LoginScreenState extends State<LoginScreen> {
           padding: EdgeInsets.fromLTRB(10, 2, 10, 2),
           decoration: BoxDecoration(
               borderRadius: BorderRadius.circular(5),
-              border: Border.all(color: Colors.purple[100])),
+              border: Border.all(color: Colors.purple)),
           child: TextField(
             controller: phoneController,
             keyboardType: TextInputType.phone,
@@ -108,8 +107,8 @@ class _LoginScreenState extends State<LoginScreen> {
                 setState(() {
                   showLoading = false;
                 });
-                _scaffoldKey.currentState.showSnackBar(
-                    SnackBar(content: Text(verificationFailed.message)));
+                _scaffoldKey.currentState!.showSnackBar(SnackBar(
+                    content: Text(verificationFailed.message.toString())));
               },
               codeSent: (verificationId, resendingToken) async {
                 setState(() {
@@ -142,7 +141,7 @@ class _LoginScreenState extends State<LoginScreen> {
           padding: EdgeInsets.fromLTRB(10, 2, 10, 2),
           decoration: BoxDecoration(
               borderRadius: BorderRadius.circular(5),
-              border: Border.all(color: Colors.purple[100])),
+              border: Border.all(color: Colors.purple)),
           child: TextField(
             controller: otpController,
             keyboardType: TextInputType.number,
@@ -162,10 +161,7 @@ class _LoginScreenState extends State<LoginScreen> {
                     verificationId: verificationId,
                     smsCode: otpController.text);
 
-            
-
             signInWithPhoneAuthCredential(phoneAuthCredential);
-            
           },
           child: Text("               VERIFY               "),
           color: Colors.purple[800],
@@ -175,8 +171,6 @@ class _LoginScreenState extends State<LoginScreen> {
       ],
     );
   }
-
-
 
   final GlobalKey<ScaffoldState> _scaffoldKey = GlobalKey();
 
@@ -196,11 +190,12 @@ class _LoginScreenState extends State<LoginScreen> {
         ));
   }
 
-  Future userMobileStore() async{
+  Future userMobileStore() async {
     final phone = phoneController.text;
-    
-    FirebaseFirestore.instance.collection('userData').doc(userUid).set({'phone': phone});
-    
-  }
 
+    FirebaseFirestore.instance
+        .collection('userData')
+        .doc(userUid)
+        .set({'phone': phone});
+  }
 }
