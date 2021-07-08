@@ -120,8 +120,7 @@ class IndexState extends State<IndexPage> {
   }
 
   fetchtoken(var channel) async {
-    var response = await http.get(Uri.https(
-        'project-x-agora.herokuapp.com', 'rtcToken?channelName=$channel'));
+    var response = await http.get(Uri.parse("https://project-x-agora.herokuapp.com/rtcToken?channelName=$channel"));
     if (response.statusCode == 200) {
       var data = json.decode(response.body);
       return data['key'];
