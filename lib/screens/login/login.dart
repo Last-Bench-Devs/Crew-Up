@@ -1,7 +1,7 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import "package:flutter/material.dart";
-import 'package:us/screens/home/index.dart';
+import 'package:us/screens/conference/index.dart';
 
 enum MobileVerificationState {
   SHOW_MOBILE_FORM_STATE,
@@ -49,7 +49,7 @@ class _LoginScreenState extends State<LoginScreen> {
         userUid = uid;
       });
 
-      if (authCredential?.user != null) {
+      if (authCredential.user != null) {
         userMobileStore();
         Navigator.push(
             context, MaterialPageRoute(builder: (context) => IndexPage()));

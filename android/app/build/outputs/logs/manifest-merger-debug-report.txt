@@ -1,19 +1,19 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\android\app\src\main\AndroidManifest.xml:1:1-45:12
-INJECTED from C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\android\app\src\main\AndroidManifest.xml:1:1-45:12
-INJECTED from C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\android\app\src\main\AndroidManifest.xml:1:1-45:12
-INJECTED from C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\android\app\src\main\AndroidManifest.xml:1:1-45:12
-MERGED from C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\android\app\src\main\AndroidManifest.xml:1:1-45:12
-MERGED from [:firebase_auth] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
-MERGED from [:cloud_firestore] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
-MERGED from [:firebase_core] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
-MERGED from [:agora_rtc_engine] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-23:12
-MERGED from [:path_provider] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
-MERGED from [:geocoder] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\geocoder\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
-MERGED from [:permission_handler] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\permission_handler\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
-MERGED from [:mobile_number] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\mobile_number\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-14:12
-MERGED from [:geolocator] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\geolocator\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+ADDED from C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\android\app\src\main\AndroidManifest.xml:1:1-45:12
+INJECTED from C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\android\app\src\main\AndroidManifest.xml:1:1-45:12
+INJECTED from C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\android\app\src\main\AndroidManifest.xml:1:1-45:12
+INJECTED from C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\android\app\src\main\AndroidManifest.xml:1:1-45:12
+MERGED from C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\android\app\src\main\AndroidManifest.xml:1:1-45:12
+MERGED from [:firebase_auth] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:cloud_firestore] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_core] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:agora_rtc_engine] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-23:12
+MERGED from [:path_provider] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:geocoder] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\geocoder\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:permission_handler] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\permission_handler\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:mobile_number] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\mobile_number\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-14:12
+MERGED from [:geolocator] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\geolocator\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.firebase:firebase-analytics:19.0.0] C:\Users\SHIBAM\.gradle\caches\transforms-2\files-2.1\b2225c14d8a5e2542145c4cdcad19fcb\jetified-firebase-analytics-19.0.0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\SHIBAM\.gradle\caches\transforms-2\files-2.1\39226147107c07d612c0b5c242740fda\jetified-firebase-auth-21.0.1\AndroidManifest.xml:17:1-83:12
 MERGED from [com.google.firebase:firebase-firestore:23.0.1] C:\Users\SHIBAM\.gradle\caches\transforms-2\files-2.1\9b84e16e205e131f44404e0ab409936d\jetified-firebase-firestore-23.0.1\AndroidManifest.xml:2:1-26:12
@@ -68,29 +68,29 @@ MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\SHIBAM\.gradle
 MERGED from [com.github.agorabuilder:native-full-sdk:3.4.2] C:\Users\SHIBAM\.gradle\caches\transforms-2\files-2.1\a2712ea29527e333a47f873e17e70602\jetified-native-full-sdk-3.4.2\AndroidManifest.xml:2:1-11:12
 MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\SHIBAM\.gradle\caches\transforms-2\files-2.1\9fbe687fafbecc1727e69653ffa44b44\jetified-grpc-android-1.28.0\AndroidManifest.xml:2:1-13:12
 MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\SHIBAM\.gradle\caches\transforms-2\files-2.1\607f946bfd99fc22cd7cbe35efa222a6\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:2:1-11:12
-INJECTED from C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\android\app\src\debug\AndroidManifest.xml:1:1-7:12
-INJECTED from C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\android\app\src\debug\AndroidManifest.xml:1:1-7:12
-INJECTED from C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\android\app\src\debug\AndroidManifest.xml:1:1-7:12
 	package
-		ADDED from C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\android\app\src\main\AndroidManifest.xml:2:5-29
-		INJECTED from C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\android\app\src\debug\AndroidManifest.xml
+		ADDED from C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\android\app\src\main\AndroidManifest.xml:2:5-29
+		INJECTED from C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\android\app\src\debug\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\android\app\src\main\AndroidManifest.xml:1:1-45:12
-		INJECTED from C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\android\app\src\debug\AndroidManifest.xml
+		INJECTED from C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\android\app\src\main\AndroidManifest.xml:1:1-45:12
+		INJECTED from C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\android\app\src\debug\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\android\app\src\main\AndroidManifest.xml:1:1-45:12
-		INJECTED from C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\android\app\src\debug\AndroidManifest.xml
+		INJECTED from C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\android\app\src\main\AndroidManifest.xml:1:1-45:12
+		INJECTED from C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\android\app\src\debug\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\android\app\src\main\AndroidManifest.xml:1:11-69
+		ADDED from C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\android\app\src\main\AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\android\app\src\main\AndroidManifest.xml:3:5-67
-MERGED from C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\android\app\src\main\AndroidManifest.xml:3:5-67
-MERGED from C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\android\app\src\main\AndroidManifest.xml:3:5-67
-MERGED from [:agora_rtc_engine] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-67
-MERGED from [:agora_rtc_engine] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-67
+ADDED from C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\android\app\src\main\AndroidManifest.xml:3:5-67
+MERGED from C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\android\app\src\main\AndroidManifest.xml:3:5-67
+MERGED from C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\android\app\src\main\AndroidManifest.xml:3:5-67
+MERGED from [:agora_rtc_engine] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-67
+MERGED from [:agora_rtc_engine] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-67
 MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\SHIBAM\.gradle\caches\transforms-2\files-2.1\39226147107c07d612c0b5c242740fda\jetified-firebase-auth-21.0.1\AndroidManifest.xml:23:5-67
 MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\SHIBAM\.gradle\caches\transforms-2\files-2.1\39226147107c07d612c0b5c242740fda\jetified-firebase-auth-21.0.1\AndroidManifest.xml:23:5-67
 MERGED from [com.google.firebase:firebase-firestore:23.0.1] C:\Users\SHIBAM\.gradle\caches\transforms-2\files-2.1\9b84e16e205e131f44404e0ab409936d\jetified-firebase-firestore-23.0.1\AndroidManifest.xml:14:5-67
@@ -106,11 +106,11 @@ MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Us
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] C:\Users\SHIBAM\.gradle\caches\transforms-2\files-2.1\ec8e985a01ffb31bef0a13fc0ca0d39e\jetified-play-services-measurement-sdk-api-19.0.0\AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] C:\Users\SHIBAM\.gradle\caches\transforms-2\files-2.1\ec8e985a01ffb31bef0a13fc0ca0d39e\jetified-play-services-measurement-sdk-api-19.0.0\AndroidManifest.xml:23:5-67
 	android:name
-		ADDED from C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\android\app\src\main\AndroidManifest.xml:3:22-64
+		ADDED from C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\android\app\src\main\AndroidManifest.xml:3:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\android\app\src\main\AndroidManifest.xml:4:5-79
-MERGED from [:agora_rtc_engine] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-79
-MERGED from [:agora_rtc_engine] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-79
+ADDED from C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\android\app\src\main\AndroidManifest.xml:4:5-79
+MERGED from [:agora_rtc_engine] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-79
+MERGED from [:agora_rtc_engine] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-79
 MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\SHIBAM\.gradle\caches\transforms-2\files-2.1\39226147107c07d612c0b5c242740fda\jetified-firebase-auth-21.0.1\AndroidManifest.xml:24:5-79
 MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\SHIBAM\.gradle\caches\transforms-2\files-2.1\39226147107c07d612c0b5c242740fda\jetified-firebase-auth-21.0.1\AndroidManifest.xml:24:5-79
 MERGED from [com.google.firebase:firebase-firestore:23.0.1] C:\Users\SHIBAM\.gradle\caches\transforms-2\files-2.1\9b84e16e205e131f44404e0ab409936d\jetified-firebase-firestore-23.0.1\AndroidManifest.xml:13:5-79
@@ -128,25 +128,25 @@ MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] C:
 MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\SHIBAM\.gradle\caches\transforms-2\files-2.1\9fbe687fafbecc1727e69653ffa44b44\jetified-grpc-android-1.28.0\AndroidManifest.xml:11:5-79
 MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\SHIBAM\.gradle\caches\transforms-2\files-2.1\9fbe687fafbecc1727e69653ffa44b44\jetified-grpc-android-1.28.0\AndroidManifest.xml:11:5-79
 	android:name
-		ADDED from C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\android\app\src\main\AndroidManifest.xml:4:22-76
+		ADDED from C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\android\app\src\main\AndroidManifest.xml:4:22-76
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\android\app\src\main\AndroidManifest.xml:5:5-76
-MERGED from [:agora_rtc_engine] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:17:5-76
-MERGED from [:agora_rtc_engine] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:17:5-76
+ADDED from C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\android\app\src\main\AndroidManifest.xml:5:5-76
+MERGED from [:agora_rtc_engine] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:17:5-76
+MERGED from [:agora_rtc_engine] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:17:5-76
 	android:name
-		ADDED from C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\android\app\src\main\AndroidManifest.xml:5:22-73
+		ADDED from C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\android\app\src\main\AndroidManifest.xml:5:22-73
 uses-permission#android.permission.CHANGE_WIFI_STATE
-ADDED from C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\android\app\src\main\AndroidManifest.xml:6:5-76
+ADDED from C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\android\app\src\main\AndroidManifest.xml:6:5-76
 	android:name
-		ADDED from C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\android\app\src\main\AndroidManifest.xml:6:22-73
+		ADDED from C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\android\app\src\main\AndroidManifest.xml:6:22-73
 application
-ADDED from C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\android\app\src\main\AndroidManifest.xml:7:4-44:19
-MERGED from [:firebase_auth] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
-MERGED from [:firebase_auth] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
-MERGED from [:cloud_firestore] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
-MERGED from [:cloud_firestore] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
-MERGED from [:firebase_core] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
-MERGED from [:firebase_core] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+ADDED from C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\android\app\src\main\AndroidManifest.xml:7:4-44:19
+MERGED from [:firebase_auth] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_auth] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:cloud_firestore] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:cloud_firestore] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
 MERGED from [com.google.firebase:firebase-analytics:19.0.0] C:\Users\SHIBAM\.gradle\caches\transforms-2\files-2.1\b2225c14d8a5e2542145c4cdcad19fcb\jetified-firebase-analytics-19.0.0\AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-analytics:19.0.0] C:\Users\SHIBAM\.gradle\caches\transforms-2\files-2.1\b2225c14d8a5e2542145c4cdcad19fcb\jetified-firebase-analytics-19.0.0\AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\SHIBAM\.gradle\caches\transforms-2\files-2.1\39226147107c07d612c0b5c242740fda\jetified-firebase-auth-21.0.1\AndroidManifest.xml:26:5-81:19
@@ -194,73 +194,73 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\SH
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.3.0] C:\Users\SHIBAM\.gradle\caches\transforms-2\files-2.1\3ed6b84209f648dd5f4c1acf00852cbb\core-1.3.0\AndroidManifest.xml:24:18-86
 	android:label
-		ADDED from C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\android\app\src\main\AndroidManifest.xml:8:9-27
+		ADDED from C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\android\app\src\main\AndroidManifest.xml:8:9-27
 	android:icon
-		ADDED from C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\android\app\src\main\AndroidManifest.xml:9:9-43
+		ADDED from C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\android\app\src\main\AndroidManifest.xml:9:9-43
 activity#com.example.us.MainActivity
-ADDED from C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\android\app\src\main\AndroidManifest.xml:10:9-38:20
+ADDED from C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\android\app\src\main\AndroidManifest.xml:10:9-38:20
 	android:launchMode
-		ADDED from C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\android\app\src\main\AndroidManifest.xml:12:13-43
+		ADDED from C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\android\app\src\main\AndroidManifest.xml:12:13-43
 	android:hardwareAccelerated
-		ADDED from C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\android\app\src\main\AndroidManifest.xml:15:13-47
+		ADDED from C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\android\app\src\main\AndroidManifest.xml:15:13-47
 	android:windowSoftInputMode
-		ADDED from C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\android\app\src\main\AndroidManifest.xml:16:13-55
+		ADDED from C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\android\app\src\main\AndroidManifest.xml:16:13-55
 	android:configChanges
-		ADDED from C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\android\app\src\main\AndroidManifest.xml:14:13-163
+		ADDED from C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\android\app\src\main\AndroidManifest.xml:14:13-163
 	android:theme
-		ADDED from C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\android\app\src\main\AndroidManifest.xml:13:13-47
+		ADDED from C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\android\app\src\main\AndroidManifest.xml:13:13-47
 	android:name
-		ADDED from C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\android\app\src\main\AndroidManifest.xml:11:13-41
+		ADDED from C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\android\app\src\main\AndroidManifest.xml:11:13-41
 meta-data#io.flutter.embedding.android.NormalTheme
-ADDED from C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\android\app\src\main\AndroidManifest.xml:21:13-24:17
+ADDED from C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\android\app\src\main\AndroidManifest.xml:21:13-24:17
 	android:resource
-		ADDED from C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\android\app\src\main\AndroidManifest.xml:23:15-52
+		ADDED from C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\android\app\src\main\AndroidManifest.xml:23:15-52
 	android:name
-		ADDED from C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\android\app\src\main\AndroidManifest.xml:22:15-70
+		ADDED from C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\android\app\src\main\AndroidManifest.xml:22:15-70
 meta-data#io.flutter.embedding.android.SplashScreenDrawable
-ADDED from C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\android\app\src\main\AndroidManifest.xml:30:13-33:17
+ADDED from C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\android\app\src\main\AndroidManifest.xml:30:13-33:17
 	android:resource
-		ADDED from C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\android\app\src\main\AndroidManifest.xml:32:15-61
+		ADDED from C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\android\app\src\main\AndroidManifest.xml:32:15-61
 	android:name
-		ADDED from C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\android\app\src\main\AndroidManifest.xml:31:15-79
+		ADDED from C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\android\app\src\main\AndroidManifest.xml:31:15-79
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\android\app\src\main\AndroidManifest.xml:34:13-37:29
+ADDED from C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\android\app\src\main\AndroidManifest.xml:34:13-37:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\android\app\src\main\AndroidManifest.xml:35:17-68
+ADDED from C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\android\app\src\main\AndroidManifest.xml:35:17-68
 	android:name
-		ADDED from C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\android\app\src\main\AndroidManifest.xml:35:25-66
+		ADDED from C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\android\app\src\main\AndroidManifest.xml:35:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\android\app\src\main\AndroidManifest.xml:36:17-76
+ADDED from C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\android\app\src\main\AndroidManifest.xml:36:17-76
 	android:name
-		ADDED from C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\android\app\src\main\AndroidManifest.xml:36:27-74
+		ADDED from C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\android\app\src\main\AndroidManifest.xml:36:27-74
 meta-data#flutterEmbedding
-ADDED from C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\android\app\src\main\AndroidManifest.xml:41:9-43:33
+ADDED from C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\android\app\src\main\AndroidManifest.xml:41:9-43:33
 	android:value
-		ADDED from C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\android\app\src\main\AndroidManifest.xml:43:13-30
+		ADDED from C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\android\app\src\main\AndroidManifest.xml:43:13-30
 	android:name
-		ADDED from C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\android\app\src\main\AndroidManifest.xml:42:13-44
+		ADDED from C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\android\app\src\main\AndroidManifest.xml:42:13-44
 uses-sdk
-INJECTED from C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\android\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\android\app\src\main\AndroidManifest.xml
-MERGED from [:firebase_auth] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:firebase_auth] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:cloud_firestore] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:cloud_firestore] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:firebase_core] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:firebase_core] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:agora_rtc_engine] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:6:5-8:41
-MERGED from [:agora_rtc_engine] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:6:5-8:41
-MERGED from [:path_provider] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:path_provider] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:geocoder] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\geocoder\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:geocoder] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\geocoder\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:permission_handler] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\permission_handler\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:permission_handler] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\permission_handler\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:mobile_number] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\mobile_number\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:mobile_number] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\mobile_number\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:geolocator] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\geolocator\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:geolocator] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\geolocator\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+INJECTED from C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\android\app\src\main\AndroidManifest.xml
+MERGED from [:firebase_auth] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:agora_rtc_engine] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:6:5-8:41
+MERGED from [:agora_rtc_engine] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:6:5-8:41
+MERGED from [:path_provider] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:geocoder] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\geocoder\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:geocoder] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\geocoder\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\permission_handler\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\permission_handler\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:mobile_number] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\mobile_number\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:mobile_number] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\mobile_number\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:geolocator] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\geolocator\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:geolocator] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\geolocator\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-analytics:19.0.0] C:\Users\SHIBAM\.gradle\caches\transforms-2\files-2.1\b2225c14d8a5e2542145c4cdcad19fcb\jetified-firebase-analytics-19.0.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-analytics:19.0.0] C:\Users\SHIBAM\.gradle\caches\transforms-2\files-2.1\b2225c14d8a5e2542145c4cdcad19fcb\jetified-firebase-analytics-19.0.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\SHIBAM\.gradle\caches\transforms-2\files-2.1\39226147107c07d612c0b5c242740fda\jetified-firebase-auth-21.0.1\AndroidManifest.xml:21:5-44
@@ -369,20 +369,20 @@ MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\SHIBAM\.gradle\caches\transfo
 MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\SHIBAM\.gradle\caches\transforms-2\files-2.1\9fbe687fafbecc1727e69653ffa44b44\jetified-grpc-android-1.28.0\AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\SHIBAM\.gradle\caches\transforms-2\files-2.1\607f946bfd99fc22cd7cbe35efa222a6\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\SHIBAM\.gradle\caches\transforms-2\files-2.1\607f946bfd99fc22cd7cbe35efa222a6\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
-INJECTED from C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\android\app\src\debug\AndroidManifest.xml
-INJECTED from C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\android\app\src\debug\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\android\app\src\debug\AndroidManifest.xml
+		INJECTED from C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\android\app\src\debug\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\android\app\src\debug\AndroidManifest.xml
+		INJECTED from C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\android\app\src\debug\AndroidManifest.xml
 service#com.google.firebase.components.ComponentDiscoveryService
-ADDED from [:firebase_auth] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
-MERGED from [:cloud_firestore] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
-MERGED from [:cloud_firestore] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
-MERGED from [:firebase_core] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
-MERGED from [:firebase_core] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+ADDED from [:firebase_auth] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:cloud_firestore] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:cloud_firestore] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
 MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\SHIBAM\.gradle\caches\transforms-2\files-2.1\39226147107c07d612c0b5c242740fda\jetified-firebase-auth-21.0.1\AndroidManifest.xml:74:9-80:19
 MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\SHIBAM\.gradle\caches\transforms-2\files-2.1\39226147107c07d612c0b5c242740fda\jetified-firebase-auth-21.0.1\AndroidManifest.xml:74:9-80:19
 MERGED from [com.google.firebase:firebase-firestore:23.0.1] C:\Users\SHIBAM\.gradle\caches\transforms-2\files-2.1\9b84e16e205e131f44404e0ab409936d\jetified-firebase-firestore-23.0.1\AndroidManifest.xml:17:9-23:19
@@ -400,63 +400,63 @@ MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\SHIBAM\.gradle
 	android:directBootAware
 		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\SHIBAM\.gradle\caches\transforms-2\files-2.1\3302300f084732ea1b649fcba8a3ed24\jetified-firebase-common-20.0.0\AndroidManifest.xml:35:13-43
 	android:name
-		ADDED from [:firebase_auth] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:8:18-89
+		ADDED from [:firebase_auth] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:8:18-89
 meta-data#com.google.firebase.components:io.flutter.plugins.firebase.auth.FlutterFirebaseAuthRegistrar
-ADDED from [:firebase_auth] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+ADDED from [:firebase_auth] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
 	android:value
-		ADDED from [:firebase_auth] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+		ADDED from [:firebase_auth] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
 	android:name
-		ADDED from [:firebase_auth] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-124
+		ADDED from [:firebase_auth] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-124
 meta-data#com.google.firebase.components:io.flutter.plugins.firebase.firestore.FlutterFirebaseFirestoreRegistrar
-ADDED from [:cloud_firestore] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+ADDED from [:cloud_firestore] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
 	android:value
-		ADDED from [:cloud_firestore] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+		ADDED from [:cloud_firestore] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
 	android:name
-		ADDED from [:cloud_firestore] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-134
+		ADDED from [:cloud_firestore] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-134
 meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar
-ADDED from [:firebase_core] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+ADDED from [:firebase_core] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
 	android:value
-		ADDED from [:firebase_core] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+		ADDED from [:firebase_core] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
 	android:name
-		ADDED from [:firebase_core] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-124
+		ADDED from [:firebase_core] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-124
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from [:agora_rtc_engine] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-75
-MERGED from [:mobile_number] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\mobile_number\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-11:38
-MERGED from [:mobile_number] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\mobile_number\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-11:38
+ADDED from [:agora_rtc_engine] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-75
+MERGED from [:mobile_number] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\mobile_number\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-11:38
+MERGED from [:mobile_number] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\mobile_number\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-11:38
 	android:maxSdkVersion
-		ADDED from [:mobile_number] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\mobile_number\intermediates\library_manifest\debug\AndroidManifest.xml:11:9-35
+		ADDED from [:mobile_number] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\mobile_number\intermediates\library_manifest\debug\AndroidManifest.xml:11:9-35
 	android:name
-		ADDED from [:agora_rtc_engine] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:10:22-72
+		ADDED from [:agora_rtc_engine] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:10:22-72
 uses-permission#android.permission.RECORD_AUDIO
-ADDED from [:agora_rtc_engine] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-71
+ADDED from [:agora_rtc_engine] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-71
 	android:name
-		ADDED from [:agora_rtc_engine] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:12:22-68
+		ADDED from [:agora_rtc_engine] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:12:22-68
 uses-permission#android.permission.CAMERA
-ADDED from [:agora_rtc_engine] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-65
+ADDED from [:agora_rtc_engine] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-65
 	android:name
-		ADDED from [:agora_rtc_engine] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:13:22-62
+		ADDED from [:agora_rtc_engine] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:13:22-62
 uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
-ADDED from [:agora_rtc_engine] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-80
+ADDED from [:agora_rtc_engine] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-80
 	android:name
-		ADDED from [:agora_rtc_engine] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:14:22-77
+		ADDED from [:agora_rtc_engine] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:14:22-77
 uses-permission#android.permission.BLUETOOTH
-ADDED from [:agora_rtc_engine] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:16:5-68
+ADDED from [:agora_rtc_engine] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:16:5-68
 	android:name
-		ADDED from [:agora_rtc_engine] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:16:22-65
+		ADDED from [:agora_rtc_engine] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:16:22-65
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from [:agora_rtc_engine] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:18:5-80
+ADDED from [:agora_rtc_engine] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:18:5-80
 	android:name
-		ADDED from [:agora_rtc_engine] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:18:22-77
+		ADDED from [:agora_rtc_engine] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:18:22-77
 uses-permission#android.permission.READ_PRIVILEGED_PHONE_STATE
-ADDED from [:agora_rtc_engine] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:19:5-21:47
+ADDED from [:agora_rtc_engine] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:19:5-21:47
 	tools:ignore
-		ADDED from [:agora_rtc_engine] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:21:9-44
+		ADDED from [:agora_rtc_engine] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:21:9-44
 	android:name
-		ADDED from [:agora_rtc_engine] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:20:9-70
+		ADDED from [:agora_rtc_engine] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:20:9-70
 uses-permission#android.permission.READ_PHONE_NUMBERS
-ADDED from [:mobile_number] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\mobile_number\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-77
+ADDED from [:mobile_number] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\mobile_number\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-77
 	android:name
-		ADDED from [:mobile_number] C:\Users\SHIBAM\Documents\shibam-codes\agora-kackerthon\us\build\mobile_number\intermediates\library_manifest\debug\AndroidManifest.xml:12:22-74
+		ADDED from [:mobile_number] C:\Users\SHIBAM\Documents\shibam-codes\flutter\project-x\build\mobile_number\intermediates\library_manifest\debug\AndroidManifest.xml:12:22-74
 activity#com.google.firebase.auth.internal.GenericIdpActivity
 ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\SHIBAM\.gradle\caches\transforms-2\files-2.1\39226147107c07d612c0b5c242740fda\jetified-firebase-auth-21.0.1\AndroidManifest.xml:27:9-44:20
 	android:excludeFromRecents

@@ -10,12 +10,14 @@ class CallPage extends StatefulWidget {
   /// non-modifiable channel name of the page
   final String? channelName;
   final String? tokenid;
+  final String? code;
 
   /// non-modifiable client role of the page
   final ClientRole? role;
 
   /// Creates a call page with given channel name.
-  const CallPage({Key? key, this.channelName, this.tokenid, this.role})
+  const CallPage(
+      {Key? key, this.channelName, this.tokenid, this.code, this.role})
       : super(key: key);
 
   @override
@@ -26,6 +28,7 @@ class _CallPageState extends State<CallPage> {
   final _users = <int>[];
   final _infoStrings = <String>[];
   bool muted = false;
+  bool vidMuted = false;
   late RtcEngine _engine;
 
   @override
@@ -60,7 +63,7 @@ class _CallPageState extends State<CallPage> {
     _addAgoraEventHandlers();
     await _engine.enableWebSdkInteroperability(true);
     VideoEncoderConfiguration configuration = VideoEncoderConfiguration();
-    configuration.dimensions = VideoDimensions(1920, 1080);
+    configuration.dimensions = VideoDimensions(1280, 720);
     await _engine.setVideoEncoderConfiguration(configuration);
     await _engine.joinChannel(widget.tokenid, widget.channelName!, null, 0);
   }
@@ -115,6 +118,7 @@ class _CallPageState extends State<CallPage> {
     final List<StatefulWidget> list = [];
     if (widget.role == ClientRole.Broadcaster) {
       list.add(RtcLocalView.SurfaceView());
+      //RtcLocalView.SurfaceView()
     }
     _users.forEach((int uid) => list.add(RtcRemoteView.SurfaceView(uid: uid)));
     return list;
@@ -217,7 +221,24 @@ class _CallPageState extends State<CallPage> {
             elevation: 2.0,
             fillColor: Colors.white,
             padding: const EdgeInsets.all(12.0),
-          )
+          ),
+          RawMaterialButton(
+            onPressed: _onToggleVideo,
+            child: Icon(
+              vidMuted ? Icons.video_call_sharp : Icons.video_camera_back,
+              color: vidMuted ? Colors.white : Colors.blueAccent,
+              size: 20.0,
+            ),
+            shape: CircleBorder(),
+            elevation: 2.0,
+            fillColor: muted ? Colors.blueAccent : Colors.white,
+            padding: const EdgeInsets.all(12.0),
+          ),
+          // Container(
+          //   child: Text(),
+
+          //   padding: const EdgeInsets.all(12.0),
+          // ),
         ],
       ),
     );
@@ -285,6 +306,13 @@ class _CallPageState extends State<CallPage> {
     _engine.muteLocalAudioStream(muted);
   }
 
+  void _onToggleVideo() {
+    setState(() {
+      vidMuted = !vidMuted;
+    });
+    _engine.muteLocalVideoStream(vidMuted);
+  }
+
   void _onSwitchCamera() {
     _engine.switchCamera();
   }
@@ -292,9 +320,6 @@ class _CallPageState extends State<CallPage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-        title: Text('Agora Flutter QuickStart'),
-      ),
       backgroundColor: Colors.black,
       body: Center(
         child: Stack(
