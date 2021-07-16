@@ -23,14 +23,16 @@ Flutter must be installed to run the project.
 - To build the release apk run `flutter build apk --split-per-abi --no-sound-null-safety`.
 
 ## Demo
+<br/>
+<p align="center">
+<img width="300" src="https://user-images.githubusercontent.com/35343652/125999299-e89b61ce-426e-4a36-8076-c9539f318e2c.gif"/>
+ <img width="300" src="https://user-images.githubusercontent.com/35343652/125999461-a5f01d64-04fa-4309-be05-772fb86ab60e.gif"/>
 
-https://user-images.githubusercontent.com/35343652/125997161-50f1067c-e2ad-4a5f-81c9-87562f236614.mp4
-
-https://user-images.githubusercontent.com/35343652/125997065-2b7209fc-7d65-4737-a838-a81fb4668fe7.mp4
+</p>
 
 ## Project Creators
-
-<table>
+<br/>
+<table align="center">
 <tr>
 
 
@@ -43,6 +45,7 @@ https://user-images.githubusercontent.com/35343652/125997065-2b7209fc-7d65-4737-
 <a href = "https://github.com/sahilsaha7773"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
 <a href = "https://www.linkedin.com/in/sahil-saha-76478516b/"><img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/></a>
 </p>
+  <td><p>       </p></td>
 </td>
   <td>
      <img src="https://avatars.githubusercontent.com/u/39475600?v=4&s=150"/>
