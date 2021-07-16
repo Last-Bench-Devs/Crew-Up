@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "350908781533",
+    "project_id": "agora-hackerthon",
+    "storage_bucket": "agora-hackerthon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350908781533:android:1b6e12f3c1d1d1f9ef9c34",
+        "android_client_info": {
+          "package_name": "com.example.us"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350908781533-a644pe5j3d85vc76evsus7t9hit57t6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATEqndCFhmzLoUKcDRMpvb3cYIgNxLWyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350908781533-a644pe5j3d85vc76evsus7t9hit57t6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
