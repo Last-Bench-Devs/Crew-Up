@@ -30,7 +30,7 @@ Flutter must be installed to run the project.
 
 </p>
 
-## Project Creators
+## Developers
 <br/>
 <table align="center">
 <tr>
