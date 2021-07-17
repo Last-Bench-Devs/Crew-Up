@@ -16,6 +16,8 @@ Crew Up is a mobile app which supports authentication, real time messaging (RTM)
 
 ## Steps to Run/Build the Project
 Flutter must be installed to run the project.
+<br/>
+`Minimum SDK version: 28 (Android 9 required)`
 - Clone the repository
  `git clone https://github.com/Last-Bench-Devs/Crew-Up.git`
 - Cd into the project directory.
