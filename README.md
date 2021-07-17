@@ -25,9 +25,9 @@ Flutter must be installed to run the project.
 ## Demo
 <br/>
 <p align="center">
-<img width="300" src="https://user-images.githubusercontent.com/35343652/125999299-e89b61ce-426e-4a36-8076-c9539f318e2c.gif"/>
- <img width="300" src="https://user-images.githubusercontent.com/35343652/125999461-a5f01d64-04fa-4309-be05-772fb86ab60e.gif"/>
-<img width="300" src="https://user-images.githubusercontent.com/35343652/126033722-15eb589e-42b6-4b19-a481-df93c9cafa35.gif"/>
+<img width="250" src="https://user-images.githubusercontent.com/35343652/125999299-e89b61ce-426e-4a36-8076-c9539f318e2c.gif"/>
+ <img width="250" src="https://user-images.githubusercontent.com/35343652/125999461-a5f01d64-04fa-4309-be05-772fb86ab60e.gif"/>
+<img width="250" src="https://user-images.githubusercontent.com/35343652/126033722-15eb589e-42b6-4b19-a481-df93c9cafa35.gif"/>
 </p>
 
 ## Developers
