@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Agora-02569B?style=for-the-badge&logo=circle&logoColor=white"/>
 </p>
 Crew Up is a mobile app which supports authentication, real time messaging (RTM) and video calling features (RTC) featuring both one to one and conference video calls. The RTC and RTM features are powered by the Agora SDK integrated with Flutter. The server side logic is written in express js (node js) and hosted on repl, Mongo DB is used to store user informations. Firebase is used for authentication using phone number and OTP.
 <br/><br/>
